@@ -3,3 +3,4 @@ simon
 dominion
 obi 
 ayo
+manager
